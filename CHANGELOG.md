@@ -11,3 +11,5 @@
   - curl
   - git
   - wget
+- Install tools:
+  - htop

@@ -14,3 +14,6 @@ sudo apt upgrade -y
 
 heading "Installing essential packages ..."
 sudo apt install -y build-essential bash-completion curl git wget
+
+heading "Installing tools ..."
+sudo snap install htop
