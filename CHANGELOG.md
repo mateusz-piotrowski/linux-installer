@@ -5,3 +5,9 @@
 **Added :**
 
 - Header
+- Install essential packages:
+  - build-essential
+  - bash-completion
+  - curl
+  - git
+  - wget
