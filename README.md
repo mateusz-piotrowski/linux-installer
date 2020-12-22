@@ -20,6 +20,18 @@ Run the following command from your terminal app to install packages
 $ ./linux-notebook-installer.sh
 ```
 
+## Packages
+
+### Essential packages
+- build-essential
+- bash-completion
+- curl
+- git
+- wget
+
+### Tools
+- htop
+
 ## Contributor
 
 Mateusz Piotrowski
