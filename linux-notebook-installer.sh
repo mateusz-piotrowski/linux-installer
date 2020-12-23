@@ -17,3 +17,6 @@ sudo apt install -y build-essential bash-completion curl git wget
 
 heading "Installing tools ..."
 sudo snap install htop
+
+heading "Installing Homebrew ..."
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
