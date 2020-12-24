@@ -32,6 +32,9 @@ $ ./linux-notebook-installer.sh
 ### Tools
 - htop
 
+### Homebrew packages
+- gh
+
 ## Contributor
 
 Mateusz Piotrowski

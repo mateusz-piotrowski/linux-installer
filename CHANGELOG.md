@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.3] (December 24 2020)
+
+**Added :**
+
+- GitHub CLI from Homebrew
+
 ## [0.0.2] (December 23 2020)
 
 **Added :**
