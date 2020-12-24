@@ -5,6 +5,7 @@
 **Added :**
 
 - GitHub CLI from Homebrew
+- Midnight Commander
 
 ## [0.0.2] (December 23 2020)
 

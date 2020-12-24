@@ -31,6 +31,7 @@ $ ./linux-notebook-installer.sh
 
 ### Tools
 - htop
+- mc
 
 ### Homebrew packages
 - gh
