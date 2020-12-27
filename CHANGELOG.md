@@ -7,6 +7,10 @@
 - GitHub CLI from Homebrew
 - Midnight Commander
 
+**Updated :**
+
+- script commands syntax
+
 ## [0.0.2] (December 23 2020)
 
 **Added :**
