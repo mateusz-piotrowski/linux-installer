@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.4] (December 27 2020)
+
+**Added :**
+
+- Homebrew to PATH
+
 ## [0.0.3] (December 24 2020)
 
 **Added :**

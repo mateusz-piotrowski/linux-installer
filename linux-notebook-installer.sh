@@ -20,6 +20,8 @@ sudo apt install -y mc htop
 
 heading "Installing Homebrew ..."
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >> /home/$USER/.profile
+eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
 heading "Installing Homebrew tools ..."
 brew install gh
