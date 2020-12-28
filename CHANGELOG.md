@@ -6,6 +6,7 @@
 
 - title() funcion
 - Signal app
+- Detect and install Gnome Tweaks app
 
 **Updated :**
 

@@ -34,3 +34,9 @@ brew install gh
 heading "Installing Signal ..."
 sudo snap install signal-desktop
 
+if [[ $XDG_CURRENT_DESKTOP == *"GNOME"* ]];
+then
+  heading "Installing Gnome Tweaks ..."
+  sudo apt install -y gnome-tweaks
+fi
+
