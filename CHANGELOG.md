@@ -5,6 +5,7 @@
 **Added :**
 
 - title() funcion
+- Signal app
 
 **Updated :**
 
