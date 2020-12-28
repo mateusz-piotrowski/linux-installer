@@ -1,14 +1,14 @@
-#!/bin/sh
+#!/bin/bash
 
 title () {
-  echo ''
-  echo '# = = = = = = = = = = = = = = ='
-  echo '# The Linux Notebook Installer'
-  echo '# = = = = = = = = = = = = = = ='
+  echo ""
+  echo "# = = = = = = = = = = = = = = ="
+  echo "# The Linux Notebook Installer"
+  echo "# = = = = = = = = = = = = = = ="
 }
 
 heading () {
-  echo "\n\n$1\n"
+  printf "\n\n# $1\n\n"
 }
 
 title

@@ -11,6 +11,10 @@
 
 - heading() function
 
+**Changed :**
+
+- from: #!/bin/sh to: #!/bin/bash
+
 ## [0.0.4] (December 27 2020)
 
 **Added :**
