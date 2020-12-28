@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.5] (December 28 2020)
+
+**Updated :**
+
+- heading() function
+
 ## [0.0.4] (December 27 2020)
 
 **Added :**
