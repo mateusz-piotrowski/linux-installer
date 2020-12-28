@@ -1,12 +1,17 @@
 #!/bin/sh
 
-echo '# = = = = = = = = = = = = = = ='
-echo '# The Linux Notebook Installer'
-echo '# = = = = = = = = = = = = = = ='
+title () {
+  echo ''
+  echo '# = = = = = = = = = = = = = = ='
+  echo '# The Linux Notebook Installer'
+  echo '# = = = = = = = = = = = = = = ='
+}
 
 heading () {
   echo "\n\n$1\n"
 }
+
+title
 
 heading "Upgrading system packages ..."
 sudo apt update

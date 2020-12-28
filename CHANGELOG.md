@@ -2,6 +2,10 @@
 
 ## [0.0.5] (December 28 2020)
 
+**Added :**
+
+- title() funcion
+
 **Updated :**
 
 - heading() function
