@@ -2,6 +2,9 @@
 
 ## [0.0.6] (January 30 2021)
 
+**Added :**
+- xclip app
+
 **Updated :**
 - Rename project to: The Linux Installer
 - title() function
