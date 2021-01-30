@@ -7,6 +7,7 @@
 - Docker dependencies
 - Docker GPG Key
 - Docker APT Repository
+- Docker platform
 
 **Updated :**
 - Rename project to: The Linux Installer
