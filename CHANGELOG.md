@@ -4,6 +4,7 @@
 
 **Added :**
 - xclip app
+- Docker dependencies
 
 **Updated :**
 - Rename project to: The Linux Installer
