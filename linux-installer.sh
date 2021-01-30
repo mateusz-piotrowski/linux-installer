@@ -56,3 +56,6 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io
 
 heading "Installing Postgresql ..."
 sudo snap install maas-test-db
+
+heading "Installing Nextcloud ..."
+sudo snap install nextcloud
