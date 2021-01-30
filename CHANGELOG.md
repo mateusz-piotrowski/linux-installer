@@ -8,6 +8,7 @@
 - Docker GPG Key
 - Docker APT Repository
 - Docker platform
+- Postgresql
 
 **Updated :**
 - Rename project to: The Linux Installer
