@@ -5,7 +5,7 @@
 title () {
   echo ""
   echo "# = = = = = = = = = = = = = = ="
-  echo "# The Linux Installer"
+  printf "#$(tput setaf 4) The Linux Installer$(tput sgr0)\n"
   echo "# = = = = = = = = = = = = = = ="
 }
 
