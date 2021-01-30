@@ -4,7 +4,7 @@
 
 **Updated :**
 - Rename project to: The Linux Installer
-
+- title() function
 
 ## [0.0.5] (December 28 2020)
 

@@ -3,7 +3,7 @@
 title () {
   echo ""
   echo "# = = = = = = = = = = = = = = ="
-  echo "# The Linux Notebook Installer"
+  echo "# The Linux Installer"
   echo "# = = = = = = = = = = = = = = ="
 }
 
