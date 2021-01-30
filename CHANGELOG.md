@@ -5,6 +5,8 @@
 **Added :**
 - xclip app
 - Docker dependencies
+- Docker GPG Key
+- Docker APT Repository
 
 **Updated :**
 - Rename project to: The Linux Installer
