@@ -1,4 +1,4 @@
-# The Linux Notebook Installer
+# The Linux Installer
 
 ## Description
 
@@ -17,7 +17,7 @@ The project has been created to develop Bash script to automate development envi
 Run the following command from your terminal app to install packages
 
 ```bash
-$ ./linux-notebook-installer.sh
+$ ./linux-installer.sh
 ```
 
 ## Packages
