@@ -2,7 +2,7 @@
 
 ## Description
 
-The project contains automatisation script.
+The project contains automatization script.
 
 ## Motivation
 
@@ -10,7 +10,7 @@ The project has been created to develop Bash script to automate development envi
 
 ## Requirements
 
-- Ubuntu-based linux distro
+- Debian-based linux distro
 
 ## Installation
 
