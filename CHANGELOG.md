@@ -11,6 +11,10 @@
 - README.md file rights
 - CHANGELOG.md file rights
 
+**Removed :**
+
+- Nextcloud package
+
 ## [0.0.6] (January 30 2021)
 
 **Added :**
