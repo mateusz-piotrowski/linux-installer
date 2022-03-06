@@ -5,6 +5,12 @@
 **Updated :**
 - README.md file
 
+**Changed :**
+
+- LICENCE file rights
+- README.md file rights
+- CHANGELOG.md file rights
+
 ## [0.0.6] (January 30 2021)
 
 **Added :**
