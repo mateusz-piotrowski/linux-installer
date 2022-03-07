@@ -9,6 +9,7 @@
 **Removed :**
 
 - PostgreSQL package
+- Docker platform
 
 ## [0.0.7] (March 06 2022)
 
