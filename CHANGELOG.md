@@ -6,6 +6,10 @@
 
 - CHANGELOG.md file syntax
 
+**Removed :**
+
+- PostgreSQL package
+
 ## [0.0.7] (March 06 2022)
 
 **Updated :**
