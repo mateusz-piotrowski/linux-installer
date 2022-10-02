@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.9] (October 03 2022)
+
+**Removed :**
+
+- Nextcloud
+
 ## [0.0.8] (March 07 2022)
 
 **Updated :**
