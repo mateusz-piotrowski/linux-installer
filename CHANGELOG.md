@@ -5,6 +5,7 @@
 
 - Docker GPG Key and APT Repository
 - Docker dependencies
+- Homebrew tools
 ## [0.0.8] (March 07 2022)
 
 **Updated :**

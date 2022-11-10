@@ -32,9 +32,6 @@ heading "Installing Homebrew ..."
 echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >> /home/$USER/.profile
 eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
 
-heading "Installing Homebrew tools ..."
-brew install gh
-
 heading "Installing Signal ..."
 sudo snap install signal-desktop
 
