@@ -1,5 +1,9 @@
 # The Changelog
+## [0.0.9] (November 11 2022)
 
+**Removed :**
+
+- Docker GPG Key and APT Repository
 ## [0.0.8] (March 07 2022)
 
 **Updated :**
