@@ -43,6 +43,3 @@ then
   heading "Installing Gnome Tweaks ..."
   sudo apt install -y gnome-tweaks
 fi
-
-heading "Installing Docker dependencies ..."
-sudo apt-get install -y apt-transport-https ca-certificates gnupg-agent software-properties-common

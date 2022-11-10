@@ -4,6 +4,7 @@
 **Removed :**
 
 - Docker GPG Key and APT Repository
+- Docker dependencies
 ## [0.0.8] (March 07 2022)
 
 **Updated :**
