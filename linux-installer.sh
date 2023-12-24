@@ -35,3 +35,6 @@ then
   heading "Installing Gnome Tweaks ..."
   sudo apt install -y gnome-tweaks
 fi
+
+heading "Installing Elixir ..."
+sudo apt install elixir
