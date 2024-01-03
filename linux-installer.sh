@@ -10,9 +10,13 @@ title () {
 }
 
 heading () {
-
   printf "\n#$(tput setaf 6) $1 $(tput sgr0)\n\n"
 }
+
+installed () {
+  printf "\n#$(tput setaf 2) $1 $(tput sgr0)\n\n"
+}
+
 
 # - - - - - - - - - - - - - - - - -
 
@@ -33,6 +37,15 @@ if [ ! -d "/home/linuxbrew" ]; then
   /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
   echo 'eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)' >> /home/$USER/.profile
   eval $(/home/linuxbrew/.linuxbrew/bin/brew shellenv)
+else
+  installed "Homebrew already installed."
+fi
+
+if [ ! -d "/home/linuxbrew/.linuxbrew/Cellar/asdf" ]; then
+  heading "Installing asdf ..."
+  brew install asdf
+else
+  installed "asdf already installed."
 fi
 
 heading "Installing Signal ..."

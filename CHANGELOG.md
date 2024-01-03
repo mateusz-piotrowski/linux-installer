@@ -6,6 +6,8 @@
 
 - Homebrew
 - Homebrew detection
+- asdf version manager
+- installed() function
 
 **Updated:**
 
