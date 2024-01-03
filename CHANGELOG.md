@@ -5,6 +5,7 @@
 **Added :**
 
 - Homebrew
+- Homebrew detection
 
 **Updated:**
 
