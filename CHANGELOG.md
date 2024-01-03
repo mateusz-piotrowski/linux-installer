@@ -1,4 +1,16 @@
 # The Changelog
+
+## [0.0.10] (January 03 2024)
+
+**Added :**
+
+- Homebrew
+
+**Updated:**
+
+- heading() function
+- title() function
+
 ## [0.0.9] (November 11 2022)
 
 **Removed :**
@@ -7,6 +19,7 @@
 - Docker dependencies
 - Homebrew tools
 - Homebrew
+
 ## [0.0.8] (March 07 2022)
 
 **Updated :**
