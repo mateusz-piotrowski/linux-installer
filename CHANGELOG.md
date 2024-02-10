@@ -5,6 +5,7 @@
 **Added :**
 
 - autoconf
+- texinfo
 
 **Removed :**
 
