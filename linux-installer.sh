@@ -27,7 +27,7 @@ sudo apt update
 sudo apt upgrade -y
 
 heading "Installing essential packages ..."
-sudo apt install -y build-essential bash-completion xclip curl git wget
+sudo apt install -y build-essential bash-completion xclip curl git wget autoconf
 
 heading "Installing tools ..."
 sudo apt install -y mc htop
@@ -57,5 +57,3 @@ then
   sudo apt install -y gnome-tweaks
 fi
 
-heading "Installing Elixir ..."
-sudo apt install elixir

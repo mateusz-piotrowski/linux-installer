@@ -1,5 +1,15 @@
 # The Changelog
 
+## [0.0.11] (February 10 2024)
+
+**Added :**
+
+- autoconf
+
+**Removed :**
+
+- elixir
+
 ## [0.0.10] (January 03 2024)
 
 **Added :**
