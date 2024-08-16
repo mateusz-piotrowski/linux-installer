@@ -1,5 +1,11 @@
 # The Changelog
 
+## [0.0.12] (August 16 2024)
+
+**Added :**
+
+- Emacs dependencies
+
 ## [0.0.11] (February 10 2024)
 
 **Added :**

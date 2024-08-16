@@ -29,6 +29,9 @@ sudo apt upgrade -y
 heading "Installing essential packages ..."
 sudo apt install -y build-essential bash-completion xclip curl git wget autoconf texinfo
 
+heading "Installing Emacs dependencies ..."
+sudo apt install -y libgtk-3-dev libgnutls28-dev libtiff5-dev libgif-dev libjpeg-dev libpng-dev libxpm-dev libncurses-dev
+
 heading "Installing tools ..."
 sudo apt install -y mc htop
 
